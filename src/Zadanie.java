@@ -6,5 +6,6 @@ public class Zadanie {
         System.out.println("się");
         System.out.println("programowania \ni \ncommitowania");
         System.out.println("J\nA\nV\nA");
+        System.out.println("\nS\nT\nA\nR\nT");
     }
 }
